@@ -1,0 +1,2 @@
+# Szkolne
+Wszystkie szkolne
