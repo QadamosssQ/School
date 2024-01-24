@@ -1,0 +1,3 @@
+C:/Users/sedki/CLionProjects/ListFromScratch/cmake-build-debug/CMakeFiles/ListFromScratch.dir
+C:/Users/sedki/CLionProjects/ListFromScratch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sedki/CLionProjects/ListFromScratch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
